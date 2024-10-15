@@ -1,0 +1,23 @@
+.image-container {
+  width: 100px;
+  height: 100px;
+}
+
+.ApartmentImg {
+  width: 60px;
+  height: 60px;
+}
+
+.card-grid-container {
+  width: 300px;
+  height: 190px;
+  background-color: cornflowerblue;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.card-grid {
+  background-color: white;
+  padding: 10px;
+  color: black;
+}
